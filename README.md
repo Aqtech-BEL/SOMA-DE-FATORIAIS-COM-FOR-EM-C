@@ -31,7 +31,7 @@ SOMA DE FATORIAIS COM FOR EM-C
         }
         
         soma = soma + fatorial;
-        printf("%d != %d \n", i, fatorial);
+        printf("%d! = %d \n", i, fatorial);
     }
     printf("A soma dos fatoriais é: %d\n", soma);
      
